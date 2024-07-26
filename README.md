@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arya Kinagi</h1>
 <h3 align="center">Aspiring Data Engineer from India</h3>
 
-<img align="right" alt="gif" width="400" src="https://cdnl.iconscout.com/lottie/premium/preview-watermark/female-web-developer-4563721-3817229.mp4">
+<img align="right" alt="gif" width="400" src="[https://cdnl.iconscout.com/lottie/premium/preview-watermark/female-web-developer-4563721-3817229.mp4](https://iconscout.com/lottie-animation/female-web-developer-4563721)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryakinagi4&label=Profile%20views&color=0e75b6&style=flat" alt="aryakinagi4" /> </p>
 
