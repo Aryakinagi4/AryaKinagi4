@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Arya Kinagi</h1>
 <h3 align="center">Aspiring Data Engineer from India</h3>
 
-<img align="right" alt="gif " width="400" src="https://i.gifer.com/OSFi.gif">
+<img align="right" alt="gif " width="400" src="![image](https://github.com/user-attachments/assets/e66892e2-d3e1-40ad-992c-2be516190e33)
+">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryakinagi4&label=Profile%20views&color=0e75b6&style=flat" alt="aryakinagi4" /> </p>
 
