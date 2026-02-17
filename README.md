@@ -1,16 +1,57 @@
-## Hi there 👋
+# Hi, I’m Arya 👋
 
-<!--
-**Aryakinagi4/AryaKinagi4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Master’s student in Computer Science focused on building scalable, data-driven systems across backend engineering, cloud infrastructure, and intelligent applications.
 
-Here are some ideas to get you started:
+I enjoy designing thoughtful architectures, working with distributed systems, and turning complex ideas into production-ready solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔎 Areas of Interest
+
+- Backend & Distributed Systems
+- Cloud-Native Architecture (AWS)
+- Data Engineering & Pipelines
+- Machine Learning & Applied AI
+- System Design & Scalability
+
+---
+
+## 🛠 Technical Stack
+
+**Languages:**  
+Python, Java, SQL  
+
+**Cloud, DevOps & Frontend:**  
+Docker, React.js, Node.js, HTML5, CSS3, jQuery
+
+**Cloud & Infrastructure:**  
+AWS (Lambda, API Gateway, S3, DynamoDB, Cognito, ECR), Docker  
+
+**AI, Data & ML:**  
+NLP(Text Classification, TF-IDF, Word Embeddings (Word2Vec), Similarity Search), Supervised & Unsupervised Learning, Feature Engineering, Model Evaluation, Prompt Engineering & Structured Output Enforcement (LLMs)  
+
+**DevOps & Tools:**  
+Git, CI/CD, Linux  
+
+**Frameworks / Libraries:**
+TensorFlow, PyTorch, Scikit-learn, Pandas, NumPy, PySpark, Apache Spark, LangChain
+
+---
+
+## 🚀 What I’m Currently Working On
+
+- Building serverless microservices on AWS and data pipelines using Snowflake, DBT 
+- Exploring scalable system design patterns  
+- Applying machine learning to real-world problems  
+- Strengthening cloud-native development practices  
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: https://linkedin.com/in/your-link
+- GitHub: https://github.com/your-username
+
+---
+
+⭐ I’m always open to collaborating on meaningful engineering problems and learning new technologies.
