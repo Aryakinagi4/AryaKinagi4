@@ -1,6 +1,6 @@
 # Hi, I’m Arya 👋
 
-I’m a Master’s student in Computer Science focused on building scalable, data-driven systems across backend engineering, cloud infrastructure, and intelligent applications.
+I’m an AI Engineer and Master’s student in Computer Science focused on building scalable, data-driven systems across backend engineering, cloud infrastructure, and intelligent applications.
 
 I enjoy designing thoughtful architectures, working with distributed systems, and turning complex ideas into production-ready solutions.
 
@@ -49,9 +49,9 @@ TensorFlow, PyTorch, Scikit-learn, Pandas, NumPy, PySpark, Apache Spark, LangCha
 
 ## 📫 Connect With Me
 
-- LinkedIn: https://linkedin.com/in/your-link
-- GitHub: https://github.com/your-username
+- LinkedIn: https://www.linkedin.com/in/aryakinagi/
+- GitHub: https://github.com/Aryakinagi4
 
 ---
 
-⭐ I’m always open to collaborating on meaningful engineering problems and learning new technologies.
+⭐ I’m always open to collaborating on meaningful engineering problems and learning new technologies ⭐
