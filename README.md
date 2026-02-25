@@ -52,6 +52,8 @@ TensorFlow, PyTorch, Scikit-learn, Pandas, NumPy, PySpark, Apache Spark, LangCha
 - LinkedIn: https://www.linkedin.com/in/aryakinagi/
 - GitHub: https://github.com/Aryakinagi4
 
+ Know more about me here - https://arya-kinagi-2sv7lkl.gamma.site/
+
 ---
 
 ⭐ I’m always open to collaborating on meaningful engineering problems and learning new technologies ⭐
