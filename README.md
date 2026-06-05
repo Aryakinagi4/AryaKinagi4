@@ -1,6 +1,6 @@
 # Hi, I’m Arya 👋
 
-I’m an AI Engineer and Master’s student in Computer Science focused on building scalable, data-driven systems across backend engineering, cloud infrastructure, and intelligent applications.
+AI/ML Engineer who enjoys designing and deploying end-to-end AI systems including LLM document pipelines, multi-agent orchestration frameworks. I also have 2 papers published in IEEE and Springer.
 
 I enjoy designing thoughtful architectures, working with distributed systems, and turning complex ideas into production-ready solutions.
 
@@ -8,11 +8,11 @@ I enjoy designing thoughtful architectures, working with distributed systems, an
 
 ## 🔎 Areas of Interest
 
-- Backend & Distributed Systems
-- Cloud-Native Architecture (AWS)
 - Data Engineering & Pipelines
 - Machine Learning & Applied AI
+- Cloud-Native Architecture (AWS)
 - System Design & Scalability
+- Backend & Distributed Systems
 
 ---
 
@@ -28,19 +28,19 @@ Docker, React.js, Node.js, HTML5, CSS3, jQuery
 AWS (Lambda, API Gateway, S3, DynamoDB, Cognito, ECR), Docker  
 
 **AI, Data & ML:**  
-NLP(Text Classification, TF-IDF, Word Embeddings (Word2Vec), Similarity Search), Supervised & Unsupervised Learning, Feature Engineering, Model Evaluation, Prompt Engineering & Structured Output Enforcement (LLMs)  
+NLP(Text Classification, TF-IDF, Word Embeddings (Word2Vec), Similarity Search), Supervised & Unsupervised Learning, Feature Engineering, Model Evaluation, Prompt Engineering & Structured Output Enforcement (LLMs), RAG, Langchain, Langraph
 
 **DevOps & Tools:**  
 Git, CI/CD, Linux  
 
 **Frameworks / Libraries:**
-TensorFlow, PyTorch, Scikit-learn, Pandas, NumPy, PySpark, Apache Spark, LangChain
+TensorFlow, PyTorch, Scikit-learn, Pandas, NumPy, PySpark, Apache Spark
 
 ---
 
 ## 🚀 What I’m Currently Working On
 
-- Building serverless microservices on AWS and data pipelines using Snowflake, DBT 
+- Building serverless microservices on AWS  
 - Exploring scalable system design patterns  
 - Applying machine learning to real-world problems  
 - Strengthening cloud-native development practices  
